@@ -13,7 +13,7 @@ Currently I specialize in frontend development, primarily working with TypeScrip
 
 #
 
-### 🧑‍🎓 Education & Research
+### 🎓 Education & Research
 
 **B.S. in Software Engineering, Saratov State University (Expected 2027)**
 
