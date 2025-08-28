@@ -4,22 +4,16 @@ Hello! My name is Robert, and I am a web developer and software engineer with a 
 
 Currently I specialize in frontend development, primarily working with TypeScript, Next.js and SvelteKit to build modern interfaces and implement architectural patterns.
 
----
-
 ### 🌐 Get in touch
 
 ![Telegram Badge](https://img.shields.io/badge/-tolstovrob-26A5E4?style=flat&logo=Telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Ftolstovrob)
 ![Gmail Badge](https://img.shields.io/badge/-tolstovrob@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto%3Atolstovrob%40gmail.com)
-
----
 
 ### 🧑‍🎓 Education & Research
 
 **B.S. in Software Engineering, Saratov State University (Expected 2027)**
 
 - [**Development of a GUI for an educational platform using Svelte**](https://github.com/MergeMinds/mm-frontend)
-
----
 
 ### 🙃 Side Quests
 
