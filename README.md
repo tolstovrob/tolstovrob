@@ -11,3 +11,8 @@ In addition to my studies, I also enjoy teaching and sharing my expertise with o
 ![Telegram Badge](https://img.shields.io/badge/-tolstovrob-26A5E4?style=flat&logo=Telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Ftolstovrob)
 ![Gmail Badge](https://img.shields.io/badge/-tolstovrob@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto%3Atolstovrob%40gmail.com)
 
+### 🧑‍🎓 Education & Research
+
+**B.S. in Software Engineering, Saratov State University (Expected 2027)**
+
+- [**Development of a GUI for an educational platform using Svelte**](https://github.com/MergeMinds/mm-frontend)
