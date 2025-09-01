@@ -17,7 +17,7 @@ Currently I specialize in frontend development, primarily working with TypeScrip
 
 **B.S. in Software Engineering, Saratov State University (Expected 2027)**
 
-- [**Development of a GUI for an educational platform using Svelte**](https://github.com/MergeMinds/mm-frontend)
+- [**Educational platform MergeMinds (building frontend using Svelte)**](https://github.com/MergeMinds/mm-frontend)
 
 #
 
