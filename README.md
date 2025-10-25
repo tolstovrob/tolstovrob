@@ -1,28 +1,25 @@
-<h3 style="font-size: x-large">👋 Hey there!</h3>
+<h3 style="font-size: x-large">👋 Привет!</h3>
 
-Hello! My name is Robert, and I am a web developer and software engineer with a keen interest in solving complex problems, which drives me to continually improve my skills and knowledge.
 
-Currently I specialize in frontend development, primarily working with TypeScript, Next.js and SvelteKit to build modern interfaces and implement architectural patterns.
+Меня зовут Роберт, я студент, преподаватель и программный инженер. Занимаюсь веб-разработкой, проектированием приложений, исследованиями в области шахматных движков. Также увлекаюсь системным программированием и информационной безопасностью.
 
-#
-
-### 🌐 Get in touch
+В настоящее время практикую фронтенд-разработку на TypeScript с использованием Next.js и SvelteKit.
 
 [![Telegram Badge](https://img.shields.io/badge/-tolstovrob-26A5E4?style=flat&logo=Telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Ftolstovrob)](https://t.me/tolstovrob)
 [![Gmail Badge](https://img.shields.io/badge/-tolstovrob@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto%3Atolstovrob%40gmail.com)](mailto:tolstovrob@gmail.com)
 
 #
 
-### 🎓 Education & Research
+### 🎓 Образование
 
-**B.S. in Software Engineering, Saratov State University (Expected 2027)**
+**Бакалавриат «Программная инженерия», Саратовский ГУ (2023&mdash;2027)**
 
-- [**LMS MergeMinds (building frontend using Svelte)**](https://github.com/MergeMinds/mm-frontend)
+- [**Веб-клиент на SvelteKit для образовательной платформы MergeMinds**](https://github.com/dsc-sgu/mm-frontend)
 
 #
 
-### 🙃 Side Quests
+### 🙃 Интересы
 
-In addition to my studies, I also enjoy teaching and sharing my expertise with others as a member of the [Developer Student Clubs](https://dsc.alivetech.org) at SSU. I deliver lectures and develop courses primarily focused on frontend development. 
+Помимо учёбы, я занимаюсь преподавательской деятельностью &mdash; читаю лекции на интересующие меня темы, провожу воркшопы. Состою в студенческом сообществе [Клубы](https://dsc.alivetech.org), основная деятельность которого &mdash; общее повышение уровня продуктовой подготовки программистов на нашем факультете.
 
-In my free time, I enjoy playing chess, which helps me develop strategic thinking and problem-solving skills. I also compete in over-the-board chess tournaments from time to time; here is my official [RCF rating](https://ratings.ruchess.ru/people/660811).
+В свободное время я люблю играть в шахматы. Это помогает мне развивать стратегическое мышление и внимательность. Большую часть времени играю [онлайн](https://lichess.org/@/gmtolstovrob), но иногда участвую и в турнирах с официальным [обсчётом](https://ratings.ruchess.ru/people/660811)
