@@ -2,7 +2,7 @@
 
 Студент программной инженерии в Саратовском государственном университете. Занимаюсь разработкой программного обеспечения, интересуюсь машинным обучением и компьютерными науками в целом.
 
-[![Сайт](https://img.shields.io/badge/Блог-222222?style=flat&logo=astro&logoColor=white)](https://tolstovrob.space/)
+[![Сайт](https://img.shields.io/badge/Блог-tolstovrob.space-222222?style=flat&logo=astro&logoColor=white)](https://tolstovrob.space/)
 [![Telegram](https://img.shields.io/badge/tolstovrob-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/tolstovrob)
 [![Email](https://img.shields.io/badge/tolstovrob@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tolstovrob@gmail.com)
 
