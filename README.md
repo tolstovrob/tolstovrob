@@ -1,17 +1,22 @@
-<h3 style="font-size: x-large">👋 Привет!</h3>
+<h3 style="font-size: x-large">Привет, я Роберт Толстов! 👋</h3>
 
-Меня зовут Роберт, я студент и программный инженер. Занимаюсь веб-разработкой и проектированием приложений. На досуге читаю исходники шахматных движков.
+Студент программной инженерии в Саратовском государственном университете. Занимаюсь разработкой программного обеспечения, интересуюсь машинным обучением и компьютерными науками в целом.
 
-В настоящее время практикую веб-разработку на TypeScript и Go.
-
-[![Telegram Badge](https://img.shields.io/badge/-tolstovrob-26A5E4?style=flat&logo=Telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Ftolstovrob)](https://t.me/tolstovrob)
-[![Gmail Badge](https://img.shields.io/badge/-tolstovrob@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto%3Atolstovrob%40gmail.com)](mailto:tolstovrob@gmail.com)
-
-#
+[![Сайт](https://img.shields.io/badge/Блог-222222?style=flat&logo=astro&logoColor=white)](https://tolstovrob.space/)
+[![Telegram](https://img.shields.io/badge/tolstovrob-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/tolstovrob)
+[![Email](https://img.shields.io/badge/tolstovrob@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tolstovrob@gmail.com)
 
 ### 🎓 Образование
 
-**Бакалавриат &laquo;Программная инженерия&raquo;, Саратовский ГУ (2023&mdash;2027):**
+**Саратовский государственный университет, КНиИТ**  
+Бакалавриат, «Программная инженерия» 2023&mdash;ожид. 2027
 
-- Разработка графического интерфейса образовательной платформы на Svelte.
-- Разработка шахматного движка на основе оценочной функции с использованием позиционных признаков и трёхфазной интерполяцией.
+- **3 курс:** Разработка шахматного движка Dumbfish на основе оценочной функции с использованием позиционных признаков и трёхфазной интерполяцией.
+- **2 курс:** Разработка графического интерфейса образовательной платформы с использованием Svelte.
+
+### 💻 Деятельность
+
+- Старший лаборант Лаборатории системного программирования СГУ.
+- Участник [Студенческих клубов разработки](https://dsc.alivetech.org/).
+- Участие в хакатонах, конференциях и образовательных мероприятиях.
+
